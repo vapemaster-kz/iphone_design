@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/background_image.webp);
+    background-size: cover;
+  }
+
+  /* h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+   */
+  /* .iphone-borders{
+    width: 250px;
+    height: 500px;
+    background-size: cover;
+    border: 6px solid #333;
+    margin: 10px;
+    border-radius: 7%;
+    text-align: center;
+} */
